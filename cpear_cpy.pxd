@@ -1,0 +1,1 @@
+cdef extern char * pear_cpy(char *, size_t)
